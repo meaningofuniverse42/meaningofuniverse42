@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @meaningofuniverse42
+- 👀 I’m interested in software development, security and AI related topics.
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on Offensive tools
+- 📫 How to reach me @proton.me
+- 😄 Pronouns: He
+- ⚡ Fun fact: I'm never finishing learning.
